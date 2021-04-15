@@ -1,5 +1,6 @@
 # GNN-RecSys
 
+# 迪卡侬的GNN推荐系统
 **Graph Neural Networks for Recommender Systems**\
 This repository contains code to train and test GNN models for recommendation, mainly using the Deep Graph Library
 ([DGL](https://docs.dgl.ai/)). 
